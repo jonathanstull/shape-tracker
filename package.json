@@ -4,7 +4,7 @@
   "description": "#### _{Brief description of application}, {Date of current version}",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
