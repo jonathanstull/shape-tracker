@@ -1,4 +1,4 @@
-import { TestScheduler } from "jest-cli";
+// import { TestScheduler } from "jest-cli";
 import Triangle from "./../src/triangle.js";
 
 describe("Triangle", () => {
